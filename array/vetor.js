@@ -1,5 +1,5 @@
-- tipo especial de objeto
-- conjunto ordenado de valores numerados por um indice (começa em 0);
+// - tipo especial de objeto
+// - conjunto ordenado de valores numerados por um indice (começa em 0);
 
 var array = new Array();
 
