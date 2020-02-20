@@ -8,6 +8,10 @@ array.forEach((num , index) => {
     return array[index] = num;
 });
 
+let doubled = array.map(num => {
+    return num * 2;
+});
+
 //percorre vetores
 for (let i = 0; i <  array.length -1; i++) {
     console.log(array[i]);
