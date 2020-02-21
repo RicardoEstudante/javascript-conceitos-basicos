@@ -1,0 +1,6 @@
+query path - representa o recurso
+query string - é a busca do parametro dentro recurso
+
+? - começo da query String
+& - coringa, representa um divisor de parametros
+parametro = atribui valor
