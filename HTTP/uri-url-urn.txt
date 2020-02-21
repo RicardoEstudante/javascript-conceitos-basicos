@@ -1,0 +1,7 @@
+URI - padrão de indentificação de documentos/ curta sequência de números, letras e símbolos.
+
+URL - localizador de recursos (sempre começa com um protocolo && geralmente contem o nome da rede hospedeira e um caminho alem de tambem poderem conter parâmetros e fragmentos de indentificação)
+
+URN - identifica um recurso existente somente pelo nome sem precisar informar o caminho (normalmente começa com urn)
+
+
