@@ -1,6 +1,22 @@
+REST - um modelo de arquitetura de software
+RECURSO - é uma abstração sobre um determinado tipo de informação
+que uma aplicação gerencia;
+
+
+PRINCÍPIOS DO REST
+-> todo recurso deve possuir uma indentificação única (serve para aplicação diferenciar qual dos recurso deve ser manipulado em uma solicitação)
+
+*Indentificação dos recursos
+*Verbos HTTP e códigos de status
+*HATEAOS
+
+
+
+
+
 query path - representa o recurso
 query string - é a busca do parametro dentro recurso
 
 ? - começo da query String
 & - coringa, representa um divisor de parametros
-parametro = atribui valor
+parametro = atributo : valor
