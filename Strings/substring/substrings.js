@@ -1,5 +1,7 @@
 var assert = require('assert')
 
+// o método substring serve para capturar  um pedaço de uma String,
+// esse método aceita até 2 parametros - (indice inicial / indice final)
 stringExemplo = "JavaScript é na DevMedia!";
 resultado1 = stringExemplo.substring(16);
 
