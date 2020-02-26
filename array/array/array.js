@@ -26,7 +26,7 @@ var array6 = [1,2,3,4];
 array6.shift(); // remove do começo do array
 
 var array7 = [2,3];
-array7.unshift(0, 1);
+array7.unshift(0, 1); //adiciona mais de um no começo
 
 
 
