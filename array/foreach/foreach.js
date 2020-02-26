@@ -1,23 +1,14 @@
-let array = [1,2,3,4,5,6,7,8,9];
 
-for (let number of array) {
-    // console.log(number[array]);
+// forEach permite executar uma determinada função para cada item de um array
+//  diferente do map o forEach não cria um novo array, somente percorre o array passado
+
+
+let array = [1,2,3];
+
+ function mult(item){
+    console.log( item * 2);
 }
 
-array.forEach((num , index) => {
-    return array[index] = num;
-});
+array.forEach(mult);
 
-let doubled = array.map(num => {
-    return num * 2;
-});
 
-//percorre vetores
-for (let i = 0; i <  array.length -1; i++) {
-    console.log(array[i]);
-}
-
-let array1 = [10,20,30,40,50,60,70,80,90];
-for(let i in array){
-    console.log(array1);
-}
