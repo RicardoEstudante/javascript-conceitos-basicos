@@ -28,7 +28,14 @@ array6.shift(); // remove do começo do array
 var array7 = [2,3];
 array7.unshift(0, 1); //adiciona mais de um no começo
 
+var array8 = [2,1,4,3];
+array8.sort(); // ordena um vetor
 
+var teste = [1,5,8,4,7];
+function isBiggerThan10(elemento, index, array) { // Função de callback para saber se existe algum elemento maior que 10
+    return elemento > 10;
+}
+var array9 = teste.some(isBiggerThan10); // retorna true/false de acordo com a função de callback passada
 
 try{
     assert.equal(3, resultado);
@@ -38,6 +45,8 @@ try{
     assert.deepEqual([0,1,2,3,4], array5);
     assert.deepEqual([2,3,4], array6);
     assert.deepEqual([0,1,2,3], array7);
+    assert.deepEqual([1,2,3,4], array8);
+    assert.deepEqual(false, array9);
 
 }catch (e) {
     console.log(e);
