@@ -10,8 +10,13 @@ data.getMinutes(); // retorna os minutos
 data.getSeconds(); // retorna os segundos
 data.getHours(); //retorna a hora
 data.getMonth(); // retorna o mes -1 (a contagem começa em 0)
+data.setDate(data.getDate() + 1); // add um dia ao dia atual
 
+var milissegundos = Date.parse("2020/01/27"); // instanciando um objeto, passando uma string
+var data2 = new Date(milissegundos);
 
-const datas = new Date('Thu')       // instanciando um objeto Date e passando uma data
-datas instanceof Date && !isNaN(datas);   // verificando se a data passada na instançia é valida
+const datas = new Date('Thu');       // instanciando um objeto Date e passando uma data
+datas instanceof Date && !isNaN(data);   // verificando se a data passada na instançia é valida
 
+console.log(data2)
+console.log();
