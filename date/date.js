@@ -17,6 +17,3 @@ var data2 = new Date(milissegundos);
 
 const datas = new Date('Thu');       // instanciando um objeto Date e passando uma data
 datas instanceof Date && !isNaN(data);   // verificando se a data passada na instançia é valida
-
-console.log(data2)
-console.log();
