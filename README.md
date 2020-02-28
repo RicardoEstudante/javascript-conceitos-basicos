@@ -9,6 +9,7 @@
   - Tipos de Dados
   - Estruturas de controle
   - Estruturas de repetição
+  - Excessões
   - Strings
   - Array
   - Objects
