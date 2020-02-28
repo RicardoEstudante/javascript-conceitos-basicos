@@ -1,4 +1,4 @@
-![js.png](https://phpdozero.com/wp-content/uploads/2019/07/practice-javascript-and-learn-functions-400x277.png)
+![js.png](https://i0.wp.com/www.ramosdainformatica.com.br/wp-content/uploads/2017/01/O-que-%C3%A9-Javascript-e-seus-frameworks-Uma-Introdu%C3%A7%C3%A3o.png?fit=800%2C300&ssl=1)
 
 # Conceitos básicos de JavaScript e Web
 
