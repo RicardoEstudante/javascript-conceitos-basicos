@@ -5,7 +5,7 @@
 - **Javascript**
   - Comentários
   - Palavras reservadas
-  - break/continue
+  - Break/continue
   - Tipos de Dados
   - Estruturas de controle
   - Estruturas de repetição
