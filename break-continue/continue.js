@@ -9,13 +9,13 @@ var assert = require('assert');
 * de uma instrução (while, do-while, for), porem ele continua a execução do laço
 * apartir da proxima iteração (ao contrario do break, o continue não encerra a execução completa)
  */
-var  condicao = 1;
 
-switch (condicao) {
-    case 0:
 
-        continue; // a execução não vai passar por aqui pois a condição é diferente da case
-    case 1:
 
-    case 2:
+
+for (let i = 0; i < 5; i++) { // declarando um for para iterar até o 9
+    if (i >= 2 && i < 4){ // criando uma condição no qual a variavel i seja maior do que 1 e menor do que 4 (2,3)
+        continue;  // pulando a iteração toda vez que atender a condição
+    }
+    console.log(i);
 }
