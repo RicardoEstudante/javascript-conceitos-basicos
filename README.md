@@ -2,7 +2,12 @@
 
 # Conceitos básicos de JavaScript e Web
 
-- `Javascript`
+- **Javascript**
+  - Comentários
+  - Palavras reservadas
+  - Tipos de Dados
+  - Estruturas de controle
+  - Estruturas de repetição
   - Strings
   - Array
   - Objects
@@ -10,16 +15,16 @@
   - Arrow functions
   - Date
   - Math
-  
-- `Web`
-  - **Rest**
+
+- **Web**
+  - `Rest`
     - Request
     - Response
     - URL/URI/URN
     - Query path params
      - Query strings params
   
-  - **Http**
+  - `Http`
     - Get/Post/Put/Delete
     - Status code
   
