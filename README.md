@@ -7,11 +7,20 @@
   - Array
   - Objects
   - Callback
-  - Arrow-functions
+  - Arrow functions
   - Date
   - Math
-- `Rest`
-  - Http
-  - Path Params
-  - Path Strings
+  
+- `Web`
+  - **Rest**
+    - Request
+    - Response
+    - URL/URI/URN
+    - Query path params
+     - Query strings params
+  
+  - **Http**
+    - Get/Post/Put/Delete
+    - Status code
+  
   
