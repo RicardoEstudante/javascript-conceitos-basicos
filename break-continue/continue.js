@@ -13,6 +13,7 @@ var  condicao = 1;
 
 switch (condicao) {
     case 0:
+
         continue; // a execução não vai passar por aqui pois a condição é diferente da case
     case 1:
 
