@@ -17,6 +17,7 @@
   - Arrow functions
   - Date
   - Math
+  - Intevalos
 
 - **Web**
   - `Rest`
