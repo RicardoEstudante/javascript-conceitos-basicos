@@ -18,6 +18,7 @@
   - Date
   - Math
   - Intevalos
+  - DOM
 
 - **Web**
   - `Rest`
