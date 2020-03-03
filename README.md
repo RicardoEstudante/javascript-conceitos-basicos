@@ -10,15 +10,16 @@
   - Estruturas de repetição
   - Break/continue
   - Array
-  - Excessões
   - Strings
-  - Objects
+  - Excessões
+  - Objects*
   - Callback
+  - Functions*
   - Arrow functions
   - Date
   - Math
   - Intevalos
-  - DOM
+  - DOM*
 
 - **Web**
   - `Rest`
