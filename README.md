@@ -15,7 +15,6 @@
   - Objects*
   - Callback
   - Functions*
-  - Arrow functions
   - Date
   - Math
   - Intevalos
