@@ -13,7 +13,7 @@
   - Strings
   - Excessões
   - Objects*
-  - Callback
+  - Callback*
   - Functions
   - Date
   - Math
