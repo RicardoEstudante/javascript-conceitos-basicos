@@ -14,7 +14,7 @@
   - Excessões
   - Objects*
   - Callback
-  - Functions*
+  - Functions
   - Date
   - Math
   - Intevalos
