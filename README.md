@@ -12,7 +12,7 @@
   - Array
   - Strings
   - Excessões
-  - Objects*
+  - Objects
   - Callback*
   - Functions
   - Date
