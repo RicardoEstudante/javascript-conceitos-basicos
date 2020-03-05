@@ -4,11 +4,11 @@ function Carro(marca, modelo, combustivel, valor) {
     this.combustivel = combustivel;
     this.valor = valor;
 
-    this.ligar = function () {
-        return "Vruuuuuum"
-    }
+    this.ligar = function() {
+        return "Vruuuuuum";
+    };
 
     this.buzinar = function (nomeDoModelo) {
-        return nomeDoModelo + " Passando beeeeennnn"
+        return nomeDoModelo + " Passando beeeeennnn";
     }
 }
