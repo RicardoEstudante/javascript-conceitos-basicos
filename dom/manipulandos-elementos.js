@@ -6,3 +6,6 @@ document.getElementsByName();          // seleciona um elemento pelo name       
 document.querySelectorAll();           // seleciona todos os elementos pelo seletor (retorna um vetor de elementos)
 document.querySelector('body div#nome input');      // seleciona um elemento pelo seletor passado (retorna somente um elemento)
 document.querySelector('input[name=nome]');         // seleciona um elemento pelo seletor passado (retorna somente um elemento)
+
+document.createElement('a'); // criando elemento (link) no html pelo JS
+document.removeChild('input'); // removento elemento do html pelo JS

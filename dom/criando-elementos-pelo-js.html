@@ -5,11 +5,23 @@
     <title>DOM</title>
 </head>
 <body>
-    <input type="text" name="nome"/>
-    <button class="botao">Adicionar</button>
+    <div id="app">
+        <input id="nome" />
+    </div>
 
 <script>
+    var linkElement = document.createElement('a');
 
+    linkElement.setAttribute('href', 'https://github.com/RicardoEstudante/javascript-conceitos-basicos');
+
+    var textElement = document.createTextNode('Acessar meu github');
+    linkElement.appendChild(textElement);
+
+    var containerElement = document.querySelector('#app');
+    containerElement.appendChild(linkElement);
+
+    var inputElement = document.querySelector('#nome');
+    containerElement.removeChild(inputElement);
 </script>
 </body>
 </html>
