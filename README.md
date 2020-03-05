@@ -5,18 +5,20 @@
 - **Javascript**
   - Comentários
   - Palavras reservadas
-  - Break/continue
   - Tipos de Dados
   - Estruturas de controle
   - Estruturas de repetição
-  - Excessões
-  - Strings
+  - Break/continue
   - Array
-  - Objects
-  - Callback
-  - Arrow functions
+  - Strings
+  - Excessões
+  - Objects*
+  - Callback*
+  - Functions
   - Date
   - Math
+  - Intevalos
+  - DOM*
 
 - **Web**
   - `Rest`
@@ -24,7 +26,7 @@
     - Response
     - URL/URI/URN
     - Query path params
-     - Query strings params
+    - Query strings params
   
   - `Http`
     - Get/Post/Put/Delete
