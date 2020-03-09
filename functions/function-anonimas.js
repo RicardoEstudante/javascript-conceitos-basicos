@@ -4,7 +4,7 @@ const assert = require('assert');
 // variavel recebe a função, não declara o nome da função, o retorno da função é guardado dentro da variavel
 let variavelRecebeFuncao = function (x,y) { //
     return x + y;
-}
+};
 
 
 

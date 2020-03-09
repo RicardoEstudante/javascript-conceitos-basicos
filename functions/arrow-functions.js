@@ -10,7 +10,7 @@ arrowFunct = () => {
 // arrow function com parametro
 arrowFunction = (x, y) => {
     return x * y;
-}
+};
 
 // arrow funtion retornando uma valor por default
 arrowFunc = () => "Hello";
