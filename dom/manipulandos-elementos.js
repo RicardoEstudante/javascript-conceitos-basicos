@@ -4,7 +4,7 @@ document.getElementsByTagName();       // seleciona todos os elementos pela tag 
 document.getElementsByTagName()[0];    // seleciona o primeiro elemento pela tag
 document.getElementsByName();          // seleciona um elemento pelo name           (retorna um vetor de elementos pois pode existir mais de um elementos com o mesmo name)
 document.querySelectorAll();           // seleciona todos os elementos pelo seletor (retorna um vetor de elementos)
-document.querySelector('body div#nome input');      // seleciona um elemento pelo seletor passado (retorna somente um elemento)
+document.querySelector('div#nome input');      // seleciona um elemento pelo seletor passado (retorna somente um elemento)
 document.querySelector('input[name=nome]');         // seleciona um elemento pelo seletor passado (retorna somente um elemento)
 
 document.createElement('a'); // criando elemento (link) no html pelo JS
