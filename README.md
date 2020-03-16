@@ -19,6 +19,7 @@
   - Math
   - Intevalos
   - DOM*
+  - POO
 
 - **Web**
   - `Rest`
