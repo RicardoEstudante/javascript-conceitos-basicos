@@ -15,6 +15,7 @@
   - Objects
   - Callback*
   - Functions
+  - Spread/Rest
   - Date
   - Math
   - Intevalos
