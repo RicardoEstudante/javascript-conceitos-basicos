@@ -1,6 +1,6 @@
 const assert = require('assert');
 
-// find procura um valor dentro de um arry
+// find procura um valor dentro de um array
 // se o valor é encontra ele retorna o mesmo
 // se não for encotrado retonar undefined
 
