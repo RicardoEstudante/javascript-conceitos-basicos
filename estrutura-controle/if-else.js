@@ -2,7 +2,7 @@
 valores que são validados como falso
 
 * -> false
-* -> undefided
+* -> undefined
 * -> null
 * -> 0
 * -> NaN
@@ -10,25 +10,25 @@ valores que são validados como falso
  */
 
 
-/* usando um unico if  */
-var condicao = true;
-if(condicao){
-    //executa esse codigo caso a expressão seja true
+/* usando um único if  */
+var condition = true;
+if(condition){
+    //executa esse código caso a expressão seja true
 }
 
 /* usando if e else  */
-var condicao = false;
-if (condicao){
+var condition = false;
+if (condition){
     //executa esse bloco caso a expressão seja true
 }else {
     //executa esse bloco caso a expressão seja false
 }
 
 /*usando if, else if e else */
-var condicao = 1;
-if(condicao == 0){
+var condition = 1;
+if(condition == 0){
     //executa esse bloco caso a primeira expressão retorne true
-}else if(condicao == 1){
+}else if(condition == 1){
     //executa esse bloco caso a segunda expressão retorne true
 }else{
     //executa esse bloco caso todas as expressões retornem falso

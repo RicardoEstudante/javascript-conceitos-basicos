@@ -1,11 +1,11 @@
 var assert = require('assert')
 
 // o método substring serve para capturar  um pedaço de uma String,
-// esse método aceita até 2 parametros - (indice inicial / indice final)
+// esse método aceita até 2 parâmetros - (índice inicial / índice final)
 stringExemplo = "JavaScript é na DevMedia!";
 resultado1 = stringExemplo.substring(16);
 
-stringExemplo = "substring(): Aprenda a ultilizar na DevMedia!";
+stringExemplo = "substring(): Aprenda a utilizar na DevMedia!";
 resultado2 = stringExemplo.substring(13, 32);
 
 stringExemplo = "substring(): Aprenda a utilizar na DevMedia!";
@@ -26,11 +26,11 @@ var resultado7 = htmlExemplo.substring(3, htmlExemplo.length - 4);
   
 try{
     assert.equal("DevMedia!", resultado1);
-    assert.equal("Aprenda a ultilizar", resultado2);
+    assert.equal("Aprenda a utilizar", resultado2);
     assert.equal("subs", resultado3);
     assert.equal("subs", resultado4);
     assert.equal("Texto em destaque", resultado5);
-    assert.equal("devmedia.com.br", resultado6);
+    assert.equal("Devmedia.com.br", resultado6);
     assert.equal("Texto em destaque", resultado7)
 }catch(e){
     console.log(e);

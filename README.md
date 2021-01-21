@@ -11,14 +11,15 @@
   - Break/continue
   - Array
   - Strings
-  - Excessões
+  - Excessos
   - Objects
   - Callback*
   - Functions
   - Spread/Rest
   - Date
   - Math
-  - Intevalos
+  - Intervalos
+  - Promises
   - DOM*
   - POO
 

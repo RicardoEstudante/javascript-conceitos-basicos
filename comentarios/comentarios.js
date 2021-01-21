@@ -2,7 +2,7 @@
 console.log("Comentário de uma única linha");
 // comentando em uma única linha
 
-console.log("Comentário de multiplas linhas ");
+console.log("Comentário de múltiplas linhas ");
 /*
    comentando em
    várias

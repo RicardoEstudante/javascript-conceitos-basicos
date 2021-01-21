@@ -1,7 +1,7 @@
 var assert = require('assert');
 
 // slice é um método que serve para fatiar uma String ou Array
-// esse método aceita dois parametros (indiceInicial / indicefinal);
+// esse método aceita dois parâmetros (índiceInicial / índiceFinal);
 
 
 var nome = ["Ricardo", "Carvalho", "Santos", "da", "Silva", "Souza"]

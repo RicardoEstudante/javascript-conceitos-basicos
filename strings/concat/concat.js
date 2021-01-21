@@ -1,8 +1,8 @@
 var assert = require('assert');
 
 //concat é um método que server para concatenar Strings
-//esse método aceita diversos parametros, para serem concatenados,
-//onde cada parametro vai sendo adicionado ao fim do array/objeto
+//esse método aceita diversos parâmetros, para serem concatenados,
+//onde cada parâmetro vai sendo adicionado ao fim do array/objeto
 
 var nome = "Ricardo";
 var sobreNome = " Carvalho Santos";

@@ -5,10 +5,10 @@
 
 let array = [1,2,3];
 
- function mult(item){
+ function multi(item){
     console.log( item * 2);
 }
 
-array.forEach(mult);
+array.forEach(multi);
 
 

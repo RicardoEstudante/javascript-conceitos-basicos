@@ -4,19 +4,19 @@ que uma aplicação gerencia;
 
 
 PRINCÍPIOS DO REST
--> todo recurso deve possuir uma indentificação única (serve para aplicação diferenciar qual dos recurso deve ser manipulado em uma solicitação)
+-> todo recurso deve possuir uma identificação única (serve para aplicação diferenciar qual dos recurso deve ser manipulado em uma solicitação)
 
-*Indentificação dos recursos
-*Verbos HTTP e códigos de status
-*HATEAOS
+* Identificação dos recursos
+* Verbos HTTP e códigos de status
+* HATEAOS
 
 
 
 
 
 query path - representa o recurso
-query string - é a busca do parametro dentro recurso
+query string - é a busca do parâmetro dentro recurso
 
 ? - começo da query String
-& - coringa, representa um divisor de parametros
-parametro = atributo : valor
+& - coringa, representa um divisor de parâmetros
+parâmetro = atributo : valor

@@ -1,5 +1,5 @@
-// a palavra reservada class permite a criação de objetos com caracteristicas proprias
-// tambem conhecidos de classes
+// a palavra reservada class permite a criação de objetos com características próprias
+// também conhecidos de classes
 
 class TodoList {
     constructor() {

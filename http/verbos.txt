@@ -1,4 +1,4 @@
-GET - renorna uma representação de recurso; (em caso de sucesso retorna 200 - http)
+GET - retorna uma representação de recurso; (em caso de sucesso retorna 200 - http)
 POST - usado para criar novos recursos no servidor;
 PUT - usado para atualizar todos os recursos;
 DELETE - usado para deletar um recurso;

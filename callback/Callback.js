@@ -12,7 +12,7 @@ function mapear(value) {
     return value * 2;
 }
 
-// formato com Calback.
+// formato com Callback.
 const array2 = [2,4,6];
 
 const arrayModified2 = array2.map(function(value2) {

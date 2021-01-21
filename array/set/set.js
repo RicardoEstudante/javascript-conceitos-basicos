@@ -1,7 +1,7 @@
 
 var teste = new Set(); // instancia um objeto do tipo Set
 
-teste.add(1); // adicona um membro
+teste.add(1); // adiciona um membro
 teste.add(2);
 teste.add("3"); // adiciona uma string
 teste.clear(); // limpa todos os membros

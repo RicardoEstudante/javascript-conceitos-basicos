@@ -1,8 +1,8 @@
 var assert = require('assert');
 
-// indexOf é o metodo usado para pesquisar o indice de uma ocorrençia,
-// indexOf aceita dois parametros onde o primeiro é a String que precisa ser procurada
-// e o segundo parametro é um numero que indica a partir de onde a String deve ser buscada!
+// indexOf é o método usado para pesquisar o índice de uma ocorrência,
+// indexOf aceita dois parâmetros onde o primeiro é a String que precisa ser procurada
+// e o segundo parâmetro é um numero que indica a partir de onde a String deve ser buscada!
 
 var exemplo = "Ricardo Carvalho Santos";
 var resultado1 = exemplo.indexOf("Ricardo");

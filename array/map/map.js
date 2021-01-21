@@ -2,7 +2,7 @@ var assert = require('assert');
 
 // a função map nos permite percorrer um array e retornar um novo array
 // cujos itens são o resultado de uma função de callback
-// que recebe como parametro cada item do array original
+// que recebe como parâmetro cada item do array original
 
 
 var teste = [1,2,3];

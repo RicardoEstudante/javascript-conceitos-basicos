@@ -1,7 +1,7 @@
 var assert = require('assert');
 
-// o método trim retiara todos os espaços no começo e no fim de uma String;
-// esse método não aceita parametros, e o retorno é a nova String
+// o método trim retira todos os espaços no começo e no fim de uma String;
+// esse método não aceita parâmetros, e o retorno é a nova String
 
 var stringExemplo = " Ricardo    ";
 var resultado = stringExemplo.trim();

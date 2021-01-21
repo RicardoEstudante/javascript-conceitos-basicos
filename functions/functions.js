@@ -1,21 +1,21 @@
 const assert = require('assert');
 
-// funções são blocos de codigos designados para executar uma determinada ação
+// funções são blocos de códigos designados para executar uma determinada ação
 
 var x = 0, y = 0;
 
-// função sem parametros
+// função sem parâmetros
 function semParametro() {
     let retornoDafuncao = "Retornando uma string";
     return retornoDafuncao;
 }
 
-// função passando um unico parametro
+// função passando um único parâmetro
 function multiplicandoValorParametro(x) {
         return x * 2;
 }
 
-// função passando dois parametros
-function somaDoisNumeros(x, y) { //declarando o nome da função e passando dois parametros
-    return x + y;  //função retornando a soma dos parametros passados!
+// função passando dois parâmetros
+function somaDoisNumeros(x, y) { //declarando o nome da função e passando dois parâmetros
+    return x + y;  //função retornando a soma dos parâmetros passados!
 }

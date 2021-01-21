@@ -20,7 +20,7 @@ console.log(a);
 console.log(b);
 console.log(c);
 
-// rest with funtions params
+// rest with functions params
 
 function soma(...params) {
     return params;

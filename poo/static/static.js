@@ -1,6 +1,6 @@
 const assert = require('assert');
 
-// método estatico é um método que pode ser invoca sem ser instanciado,
+// método estático é um método que pode ser invoca sem ser instanciado,
 // ou seja não é preciso usar a palavra chave new; 
 
 class math{
